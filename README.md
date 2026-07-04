@@ -1,0 +1,2 @@
+# KOREDEKOSOKO
+MLModelForDefectAnalysisandDetection
